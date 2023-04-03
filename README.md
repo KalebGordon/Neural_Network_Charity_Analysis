@@ -19,9 +19,15 @@ What variable(s) are neither targets nor features, and should be removed from th
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 - For my first attempt, I used two hidden layers, with the first containing 102 neurons and the second containing 52 neurons. The activation function I chose was ReLu. This was different than my original attempt because I changed the replaced values from under 500 to under 250. 
 
+![image](Images/Attempt1.JPG)
+
 - For my second attempt, I used two hidden layers, with the first containing 154 neurons, and the second containing 102 neurons. The activation function I chose was ReLu. This attempt used more neurons. 
 
+![image](Images/Attempt2.JPG)
+
 - For my third attempt, I used three hidden layers, with the first containing 102 neurons, the second containing 52 neurons, and the third containing 21 neurons. The activation function I used was ReLu. This attempt contained more layers. 
+
+![image](Images/Attempt3.JPG)
 
 Were you able to achieve the target model performance?
 - I was unable to reach the target model performance of 75%. The closest any of my models got was 73.20%, which I achieved on my first attempt at optimization.
